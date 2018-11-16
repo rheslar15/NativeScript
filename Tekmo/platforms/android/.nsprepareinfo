@@ -1,0 +1,22 @@
+{
+	"time": "Fri Nov 16 2018 14:43:46 GMT-0500 (Eastern Standard Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "534a4c3eca56e0661d7384b12b544407ad38b138901ee4cd0f670b6e775dc04a",
+	"changesRequireBuildTime": "Fri Nov 16 2018 13:24:26 GMT-0500 (Eastern Standard Time)",
+	"appFilesHashes": {
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\app.css": "069bf6ee56197a1b24546898d26ba1f636a192c8",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\app-root.xml": "0c4a42b57480799571d0d9be79931364143f9e94",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\viewModels\\main-view-model.js": "b64899e08a2a3b4b4859936c9cc45a3aefbdeb11",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\viewModels\\about-view-model.js": "85268b8b7c7af814f2a93633b5dfa91c27a73400",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\views\\about.js": "d41d57e4f66dccb64e346e18d73e227ed5eea274",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\views\\about.xml": "06c5d08a5e698b3bc0157499319924920b7cec83",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\views\\main-page.xml": "d7b30ff7631e93467e3e70ced6edbff34082cc1c",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"C:\\Users\\heslarr\\Documents\\GitHub\\NativeScript\\Tekmo\\app\\views\\main-page.js": "665bb85838496c9d2dd5f0a11a38ea34dde20ac8"
+	}
+}

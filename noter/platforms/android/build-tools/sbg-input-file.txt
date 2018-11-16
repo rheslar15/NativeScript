@@ -1,0 +1,1 @@
+C:\code\nativescript\noter\platforms\android\app/src/main/assets/app

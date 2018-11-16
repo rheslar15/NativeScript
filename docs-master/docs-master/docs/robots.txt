@@ -1,4 +1,0 @@
-User-agent: * 
-Disallow: 
-
-Sitemap: https://docs.nativescript.org/sitemap.xml

@@ -1,4 +1,0 @@
-#Fri Nov 16 09:55:36 EST 2018
-base.0=C\:\\code\\nativescript\\Tekmo\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

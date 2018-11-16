@@ -1,0 +1,1 @@
+C:\code\nativescript\Tekmo\platforms\android\app/src/main/assets/app

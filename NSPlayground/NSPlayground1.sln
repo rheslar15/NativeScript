@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{0274D3E0-AD54-4273-92FD-D2FE660D6B66}") = "NSPlayground1", "NSPlayground1.nsproj", "{D5F89E80-95F3-4021-B0C9-4BE8F3493238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android Cloud = Debug|Android Cloud
+		Debug|Android Local = Debug|Android Local
+		Debug|iOS Cloud = Debug|iOS Cloud
+		Publish|Android Cloud = Publish|Android Cloud
+		Publish|Android Local = Publish|Android Local
+		Publish|iOS Cloud = Publish|iOS Cloud
+		Release|Android Cloud = Release|Android Cloud
+		Release|Android Local = Release|Android Local
+		Release|iOS Cloud = Release|iOS Cloud
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Cloud.ActiveCfg = Debug|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Cloud.Build.0 = Debug|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Cloud.Deploy.0 = Debug|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Local.ActiveCfg = Debug|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Local.Build.0 = Debug|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|Android Local.Deploy.0 = Debug|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|iOS Cloud.ActiveCfg = Debug|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|iOS Cloud.Build.0 = Debug|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Debug|iOS Cloud.Deploy.0 = Debug|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Cloud.ActiveCfg = Publish|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Cloud.Build.0 = Publish|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Cloud.Deploy.0 = Publish|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Local.ActiveCfg = Publish|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Local.Build.0 = Publish|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|Android Local.Deploy.0 = Publish|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|iOS Cloud.ActiveCfg = Publish|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|iOS Cloud.Build.0 = Publish|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Publish|iOS Cloud.Deploy.0 = Publish|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Cloud.ActiveCfg = Release|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Cloud.Build.0 = Release|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Cloud.Deploy.0 = Release|Android Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Local.ActiveCfg = Release|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Local.Build.0 = Release|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|Android Local.Deploy.0 = Release|Android Local
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|iOS Cloud.ActiveCfg = Release|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|iOS Cloud.Build.0 = Release|iOS Cloud
+		{D5F89E80-95F3-4021-B0C9-4BE8F3493238}.Release|iOS Cloud.Deploy.0 = Release|iOS Cloud
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397DCA66-AEC7-45E9-8E0D-D3E947FA7A22}
+	EndGlobalSection
+EndGlobal

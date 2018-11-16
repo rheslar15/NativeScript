@@ -1,0 +1,7 @@
+<Page>
+    <StackLayout class="stackpanel">
+        <Label text="{{ message }}" textWrap="true" class="h2 textcenter"/>
+        <Label text="Come visit us in Louisville, KY" />
+    </StackLayout>
+</Page>
+

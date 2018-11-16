@@ -1,0 +1,12 @@
+{
+    "nativescript-extend.fileAssociations": [
+        {
+            "systemId": "c:\\code\\nativescript\\Tekmo\\schema\\tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    },
+    "git.ignoreLimitWarning": true
+}
